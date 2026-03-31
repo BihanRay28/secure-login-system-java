@@ -149,6 +149,15 @@ This project demonstrates:
 * Awareness of **real-world security concerns**
 
 ---
+## 🖥️ GUI Interface
+
+The system includes a Java Swing-based graphical interface that allows users to:
+
+- Register with email and password  
+- Login securely with hidden password input  
+- Toggle password visibility  
+- Receive real-time success/failure feedback  
+
 
 ## 👨‍💻 Author
 
